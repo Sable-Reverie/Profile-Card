@@ -6,7 +6,7 @@ A highly animated, single-file, open-source profile card. Perfect for developers
 
 ### Live Demo
 
-**[View Live - (https://sableprofile.netlify.app/)]
+**[View Live]** - (https://sableprofile.netlify.app/)
 
 ---
 
